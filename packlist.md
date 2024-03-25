@@ -29,7 +29,7 @@ Before a show, I like to print out the lineup, kitten notes, and emcee notes. Th
 - [ ] Bandaids
 - [ ] Antibiotic cream
 - [ ] Chewable tums/pepto
-- [ ] Acetiminophen
+- [ ] Acetaminophen
 - [ ] Gum (handy before going on stage)
 
 # Cleanup

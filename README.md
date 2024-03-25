@@ -12,7 +12,7 @@ Play the support role by and make the show run as smooth as possible by:
 # Checklists
 I love me a good spreadsheet.
 
-- Lineup (TODO)
+- [Example Lineup](https://docs.google.com/spreadsheets/d/19uiKRQUp_RiMLpH9Re0tBIX6yKopLbak1WGNZVeloCA/edit?usp=sharing)
 - Pre show (TODO)
 - [Pack list](packlist.html)
 - Show Retrospective (TODO)
